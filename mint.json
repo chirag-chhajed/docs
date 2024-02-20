@@ -1,5 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
+  "openapi": "https://carvachoemendpointsv1.azurewebsites.net/openapi.json",
   "name": "Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
@@ -75,7 +76,7 @@
         "api/get-charging-status",
         "api/get-fuel-amount",
         "api/get-location",
-        "api/get-tires-pressure",
+        "api/get-tires-pressue",
         "api/get-vehicle-details",
         "api/lock-vehicle",
         "api/unlock-vehicle"
